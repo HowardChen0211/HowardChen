@@ -7,9 +7,10 @@ Here you'll find some of my projects and explorations in data science.
 ## What I'm learning
 
 I'm currently improving my skills in:
-- Machine Learning
-- Database management
+- GIS
+- Database Management
 - Data Visualization
+- Machine Learning
 - Deep Learning
 
 ## Featured Project: Customer Sentiment Analysis in Product Reviews(Industry-University Cooperation)
